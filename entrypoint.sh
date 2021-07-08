@@ -45,3 +45,4 @@ fi
 echo "Container started"
 
 exec "$@"
+
